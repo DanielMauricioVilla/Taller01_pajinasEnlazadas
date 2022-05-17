@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: url("../img/z.jpg");
+}
+
+.h1{
+    background: rgb(127, 255, 212);
+    border: 5px solid rgb(126, 218, 187);
+    width: 1222px;
+    margin: 0 auto;
+    border-radius: 20px ;
+}
+h1{
+    display: inline;
+    float: center;
+    margin: 500px;
+    font-size: 60px;
+}
+main {
+    width: 1222px;
+    height: 800px;
+    background: #d8e5eb;
+    border: 5px solid #0a0a0a6d;
+    border-radius: 10px;
+    margin: 0 auto;
+    padding: 10px;
+    font-size: 23px;
+}
+
+header {
+    padding: 20px;
+}
+
+.titulo{
+    margin: 10px ;
+}
+
+.nav1 {
+    display: inline;
+    float: right;
+    width:45%;
+    margin: 70px;
+    
+}
+
+nav ul li a{
+    text-decoration: none;
+    background-color: #55c5b6;
+    border: 2px solid #adf7ea63;
+    color: aliceblue;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a:hover {
+    color: #beb17ee2;
+    background-color: beige;
+}
+
+section {
+    padding: 30px;
+}
+
+.logo img {
+    width: 450px;
+    border-radius: 10px;
+}
+
+.logo {
+    float: left;
+}
+
+.perro {
+    width: 280px;
+    float: left;
+    border-radius: 22px;
+    padding: 15px;
+}
+
+.texto-lateral {
+    float: left;
+    width: 60%;
+    margin-top: 30px;
+}
+
+.clear {
+    clear: both;
+}
+
+
+
